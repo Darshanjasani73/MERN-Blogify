@@ -58,6 +58,24 @@ Welcome to the MERN Stack Blog Website Blogify! This project is a full-stack app
 ### Backend repository : https://github.com/Darshanjasani73/Blogify-Backend
 ### Deploy on Render : https://blogify-backend-1-0stb.onrender.com/
 
+## UI of Website
+
+![Screenshot 2024-06-13 172959](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/543b9d3f-321d-4695-ab15-0ab583a872f7)
+
+![Screenshot 2024-06-13 174016](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/5a706865-f6e3-4849-a34c-7d5f4d335a22)
+
+![Screenshot 2024-06-13 173220](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/445e3a99-ee26-47e6-89f3-5dd48ff04e83)
+
+![Screenshot 2024-06-13 173902](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/ae849a0f-9a26-4120-823f-ac98b87ae17c)
+
+![Screenshot 2024-06-13 174315](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/dd21fa15-3b9f-4fbd-9eeb-ed3a70c063b8)
+
+![Screenshot 2024-06-13 173122](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/f0e6ffd3-6976-4da1-993b-d4361ed873fe)
+
+![Screenshot 2024-06-13 173046](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/26289049-a597-42f9-925a-b475a1c2febe)
+
+![Screenshot 2024-06-13 174040](https://github.com/Darshanjasani73/MERN-Blogify/assets/167104440/dd80db81-9583-4c9f-99c1-549274f8c88e)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and passes all tests.
