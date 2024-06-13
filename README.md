@@ -9,6 +9,7 @@ Welcome to the MERN Stack Blog Website Blogify! This project is a full-stack app
 - User Authentication: Register and login functionality for users.
 - Create, Read, Update, Delete (CRUD) operations for blog posts by only admin.
 - Admin dashboard for managing users, posts and comments.
+- search / filter option category wise and term wise which enter by user 
 - Profile picture upload.
 - Blog picture upload.
 - Responsive design for optimal viewing on different devices.
@@ -46,6 +47,16 @@ Welcome to the MERN Stack Blog Website Blogify! This project is a full-stack app
   - MongoDB (with Mongoose ODM)
   - JWT (for authentication)
   - bcrypt (for password hashing)
+ 
+## Live : 👉  https://blogify-blog-webapp.vercel.app/
+
+## Production Ready
+
+### Frontend repository : https://github.com/Darshanjasani73/Blogify-Frontend
+### Deploy on Vercel : https://blogify-blog-webapp.vercel.app/
+
+### Backend repository : https://github.com/Darshanjasani73/Blogify-Backend
+### Deploy on Render : https://blogify-backend-1-0stb.onrender.com/
 
 ## Contributing
 
